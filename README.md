@@ -1,2 +1,0 @@
-# wcaec
-WCAEC Website (Ushahidi)
